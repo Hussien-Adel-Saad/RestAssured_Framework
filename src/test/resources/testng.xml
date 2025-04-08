@@ -1,0 +1,7 @@
+<suite name="Reqres API Tests">
+    <test name="User API">
+        <classes>
+            <class name="tests.UserAPITests"/>
+        </classes>
+    </test>
+</suite>
