@@ -1,7 +1,9 @@
 <suite name="Reqres API Tests">
     <test name="User API">
         <classes>
-            <class name="tests.UserAPITests"/>
+            <class name="tests.CreateUserTests"/>
+            <class name="tests.GetSingleUserTests"/>
+            <class name="tests.UpdateUserTests"/>
         </classes>
     </test>
 </suite>
